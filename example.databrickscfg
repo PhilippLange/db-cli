@@ -1,0 +1,3 @@
+[DEFAULT]
+    host  = https://<your_region>.azuredatabricks.net/
+    token = <your_personal_access_token>
